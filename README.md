@@ -9,4 +9,5 @@ Coming soon...
 * Initial commit
 * Adding fetch to get latest news and update state
 * Passing news category from App module
+* Adding side news
 
