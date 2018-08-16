@@ -5,7 +5,7 @@ This project depicts the usage of third part API's inside React Project using fe
 Note: This project is not about great css so pls excuse ugly design
 
 ## ScreenShot
-Coming soon...
+![Screenshot](./portal.png "Portal")
 
 ## Concepts Expored
 * Initial commit
@@ -13,4 +13,5 @@ Coming soon...
 * Passing news category from App module
 * Adding side news
 * Configuring axios to get side news
+* Adding error component
 
